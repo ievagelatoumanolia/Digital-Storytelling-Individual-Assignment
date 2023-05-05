@@ -54,9 +54,16 @@ UNIT 5
 ![Screenshot (52)](https://user-images.githubusercontent.com/101421118/236517334-f8747eb8-d66e-4c5d-b47a-67d39175c1da.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/101421118/236517355-097a5968-a84d-4533-b3fe-89e6697fd502.png)
 
-
+χρησιμοποίησα την ιστοσελίδα https://ezgif.com/cut-video/ezgif-2-ab586df718.mp4 για να κόψω το βίντεο σε κομμάτι γιατι το github δε μου επέτρεπε να το ανεβάσω όλο μαζί επειδή ήταν αρκετά μεγάλο. Προτίμησα να το κόψω από το να μειώσω την ανάλυση 
 
 https://user-images.githubusercontent.com/101421118/236518872-253e2a4a-c4b2-45c3-ada8-2001fe179e62.mp4
+
+ολόκληρο βίντεο με μειωμένη ανάλυση
+
+
+https://user-images.githubusercontent.com/101421118/236519698-6afcd64d-188a-40f7-b439-7b42c73aea38.mp4
+
+
 
 
 
