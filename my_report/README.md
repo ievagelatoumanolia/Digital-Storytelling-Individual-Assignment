@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/101421118/227808119-0851b409-432e-4947
 Για τη μέιωση του μεγέθους των βίντεο χρησιμοποίησα την ιστοσελίδα https://www.veed.io/edit/eb8f8186-bd15-49dc-940e-9af8c5025a18/compress?source=%2Ftools%2Fvideo-compressor%2Fmp4-compressor έτσι ώστε να μπορέσω να το ανεβάσω στο report διότι το github δε με άφηνε. Στον φάκελο dailies το έχω ανέβασει κανονικά με υψηλή ποιότητα και από ότι είδα δεν υπάρχει πρόβλημα. 
 
 
-UNIT 5
+Unit 5:
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/101421118/236517270-fdb256c1-f6da-4be3-b0f9-4fe60031021e.png)
 ![Screenshot (53)](https://user-images.githubusercontent.com/101421118/236517292-b9b6b2b0-e720-4a72-be58-2453fafed75e.png)
@@ -62,7 +62,8 @@ UNIT 5
 https://user-images.githubusercontent.com/101421118/236519698-6afcd64d-188a-40f7-b439-7b42c73aea38.mp4
 
 
-UNIT 6 
+Unit 6:
+
 ![Screenshot (72)](https://user-images.githubusercontent.com/101421118/236527625-53e6681d-7252-4c05-a5c3-d2d0758b802e.png)
 ![Screenshot (71)](https://user-images.githubusercontent.com/101421118/236527635-94e4d9f3-75ac-4a9f-bcec-6ef3704dbc27.png)
 ![Screenshot (70)](https://user-images.githubusercontent.com/101421118/236527649-cdf23675-5ce1-4f8d-8865-3ac876d7f713.png)
@@ -70,15 +71,15 @@ UNIT 6
 ![Screenshot (68)](https://user-images.githubusercontent.com/101421118/236527677-2e18a041-e845-460e-98f8-862a079ead25.png)
 ![Screenshot (67)](https://user-images.githubusercontent.com/101421118/236527694-62bb3cfe-3b04-4bf0-8a97-2516406d4bba.png)
 
+https://user-images.githubusercontent.com/101421118/236528091-2e800e7a-90ae-4dd7-b153-09957211e816.mp4
 
-UNIT 7
 
+Unit 7:
 
 ![Screenshot (66)](https://user-images.githubusercontent.com/101421118/236526232-6424698b-8533-41e0-be2e-9706f9d5b93f.png)
 ![Screenshot (65)](https://user-images.githubusercontent.com/101421118/236526250-81efff36-5387-4ef2-9bdc-6f238715fb93.png)
 ![Screenshot (64)](https://user-images.githubusercontent.com/101421118/236526262-981e06a7-9f11-41c9-b68f-1ef17c8d1f98.png)
 ![Screenshot (63)](https://user-images.githubusercontent.com/101421118/236526274-cfa8b474-0fd9-4d32-9cde-6959798bff72.png)
-
 
 https://user-images.githubusercontent.com/101421118/236526855-c236baf6-4043-4d50-b12f-163a8ad3a328.mp4
 
