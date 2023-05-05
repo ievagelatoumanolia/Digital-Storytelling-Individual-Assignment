@@ -47,6 +47,11 @@ https://user-images.githubusercontent.com/101421118/227808129-3f4f2016-5793-4651
 https://user-images.githubusercontent.com/101421118/227808119-0851b409-432e-4947-95b3-34557d919649.mp4
 
 
+# 2nd Deliverable
+
+Για τη μέιωση του μεγέθους των βίντεο χρησιμοποίησα την ιστοσελίδα https://www.veed.io/edit/eb8f8186-bd15-49dc-940e-9af8c5025a18/compress?source=%2Ftools%2Fvideo-compressor%2Fmp4-compressor έτσι ώστε να μπορέσω να το ανεβάσω στο report διότι το github δε με άφηνε. Στον φάκελο dailies το έχω ανέβασει κανονικά με υψηλή ποιότητα και από ότι είδα δεν υπάρχει πρόβλημα. 
+
+
 UNIT 5
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/101421118/236517270-fdb256c1-f6da-4be3-b0f9-4fe60031021e.png)
@@ -54,15 +59,7 @@ UNIT 5
 ![Screenshot (52)](https://user-images.githubusercontent.com/101421118/236517334-f8747eb8-d66e-4c5d-b47a-67d39175c1da.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/101421118/236517355-097a5968-a84d-4533-b3fe-89e6697fd502.png)
 
-
-χρησιμοποίησα την ιστοσελίδα https://www.veed.io/edit/eb8f8186-bd15-49dc-940e-9af8c5025a18/compress?source=%2Ftools%2Fvideo-compressor%2Fmp4-compressor για να μειώσω την ανάλυση του βίντεο έτσι ώστε να μπορέσω να το ανεβάσω στο report διότι το github δε με άφηνε. Στον φάκελο dailies το έχω ανέβασει κανονικά με υψηλή ποιότητα και από ότι είδα δεν υπάρχει πρόβλημα. 
-
 https://user-images.githubusercontent.com/101421118/236519698-6afcd64d-188a-40f7-b439-7b42c73aea38.mp4
-
-
-
-
-
 
 
 UNIT 6 
@@ -73,11 +70,13 @@ UNIT 6
 UNIT 7
 
 
+![Screenshot (66)](https://user-images.githubusercontent.com/101421118/236526232-6424698b-8533-41e0-be2e-9706f9d5b93f.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/101421118/236526250-81efff36-5387-4ef2-9bdc-6f238715fb93.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/101421118/236526262-981e06a7-9f11-41c9-b68f-1ef17c8d1f98.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/101421118/236526274-cfa8b474-0fd9-4d32-9cde-6959798bff72.png)
 
 
-
-
-# 2nd Deliverable
+https://user-images.githubusercontent.com/101421118/236526855-c236baf6-4043-4d50-b12f-163a8ad3a328.mp4
 
 
 # 3rd Deliverable 
