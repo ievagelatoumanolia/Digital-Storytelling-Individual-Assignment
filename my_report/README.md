@@ -89,6 +89,10 @@ https://user-images.githubusercontent.com/101421118/236526855-c236baf6-4043-4d50
 Στο 3ο και τελευταίο παραδοτέο μας ζητείται να δημιουργήσουμε από την αρχή το δικό μας Real-Time Animation. Ξεκινόντας τη διαδικασία δημιουργίας, άρχισα να σκέφτομαι έναν χαρακτήρα που θέλω, ένα σκηνικό όπου θα πραγματοποιηθεί η ιστορία και το γεγονός. Ξεκινόντας λοιπόν, κατέβασα ένα έτοιμο environment από το Unity Assets Store, https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732 και ξεκίνησα να περιηγούμε στο χώρο του Unity, με σκοπό να δω τι ακριβώς ιστορία θέλω να δημιουργήσω. Το περιβάλλον που επέλεξα, αρχικά ήταν έτσι.
 ![Screenshot (1)](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/b063b5c6-ff18-47a7-8dc3-1d6171e52f17)
 
+[New Recording - 5_29_2023, 6_50_53 PM.webm](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/4f7a6cae-d3f8-4dba-ab80-5ab2fc515e30)
+
+[New Recording - 5_29_2023, 6_49_19 PM.webm](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/c4682142-ad8d-49f2-9571-ac0d57f71095)
+
 
 
 
