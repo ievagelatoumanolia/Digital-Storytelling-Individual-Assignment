@@ -86,17 +86,37 @@ https://user-images.githubusercontent.com/101421118/236526855-c236baf6-4043-4d50
 
 # 3rd Deliverable 
 
-Στο 3ο και τελευταίο παραδοτέο μας ζητείται να δημιουργήσουμε από την αρχή το δικό μας Real-Time Animation. Ξεκινόντας τη διαδικασία δημιουργίας, άρχισα να σκέφτομαι έναν χαρακτήρα που θέλω, ένα σκηνικό όπου θα πραγματοποιηθεί η ιστορία και το γεγονός. Ξεκινόντας λοιπόν, κατέβασα ένα έτοιμο environment από το Unity Assets Store, https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732 και ξεκίνησα να περιηγούμε στο χώρο του Unity, με σκοπό να δω τι ακριβώς ιστορία θέλω να δημιουργήσω. Το περιβάλλον που επέλεξα, αρχικά ήταν έτσι.
+Στο 3ο και τελευταίο παραδοτέο μας ζητείται να δημιουργήσουμε από την αρχή το δικό μας Real-Time Animation. Ξεκινόντας τη διαδικασία δημιουργίας, άρχισα να σκέφτομαι έναν χαρακτήρα που θέλω, ένα σκηνικό όπου θα πραγματοποιηθεί η ιστορία και το γεγονός. Ξεκινόντας λοιπόν, κατέβασα ένα έτοιμο environment από το Unity Assets Store, https://assetstore.unity.com/packages/3d/environments/3d-free-modular-kit-85732 και ξεκίνησα να περιηγούμε στο χώρο του Unity, με σκοπό να δω τι ακριβώς ιστορία θέλω να δημιουργήσω. Το περιβάλλον που επέλεξα είναι αυτό. 
 ![Screenshot (1)](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/b063b5c6-ff18-47a7-8dc3-1d6171e52f17)
 
-[New Recording - 5_29_2023, 6_50_53 PM.webm](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/4f7a6cae-d3f8-4dba-ab80-5ab2fc515e30)
+Και έπειτα βρήκα 3 χαρακτήρες για να τοποθετήσω στη σκηνή μου. 
 
-[New Recording - 5_29_2023, 6_49_19 PM.webm](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/c4682142-ad8d-49f2-9571-ac0d57f71095)
+Κατά τη δημιουργία τυου real time animation, αντιμετώπισα αρκετά προβλήματα στην τοποθέτηση του timeline. Κάτι αντίστοιχο είχε ξανασυμβεί σε προηγούμενο παραδοτέο αλλά κατάφερα να το διορθώσω στον υπολογιστή της σχολής. Αυτή τη φορά δεν είχα πρόσβαση στους υπολογιστές τις σχολής και έτσι προσπάθησα να το τελειωποιήσω στον δικό μου υπολογιστή. Τελικά, δεν κατάφερα μα ολοκληρώσω σωστά το animation, οπότε θα ανεβάσω ότι έχω κάνει μέχρι στιγμής. 
+
+![Screenshot (3)](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/c353fcde-8692-4a2f-ad26-cf6ad73b786f)
 
 
+![Screenshot (4)](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/d4f55349-684f-46f7-9089-545fb06911b7)
+
+![Screenshot (5)](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/74ec7f11-0ff2-4e1b-bb47-19380508d6ba)
+
+
+![Screenshot (6)](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/bca5c8ff-9b31-491b-8788-ef98b340c5c3)
+
+Παρακάτω τοποθετώ κάποια screen recordings που έβγαλα, μεσκοπό να φανεί τι ακριβνώς έκανα γιατι αντιμετώπισα προβλήματα με το timeline. 
+
+[New Recording - 5_29_2023, 6_49_19 PM.webm](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/509ae4d9-3f05-4354-8444-5c6246c760d9)
+
+[New Recording - 5_29_2023, 6_50_53 PM.webm](https://github.com/ievagelatoumanolia/Digital-Storytelling-Individual-Assignment/assets/101421118/b182a168-3bb4-4566-8116-9d9027c9ac43)
 
 
 # Conclusions
 
+Τα συμπεράσματα μου από τη συγκεκριμένη εργασία είναι ότι τα πρώτα δύο παραδοτέα παρόλο που ήταν κάτι αρκετά καινούριο, λόγω του ΄το είχαν διδαχθεί στο μάθημα ήταν αρκετά βατά να δημιουργηθούν. Το τελευταίο παραδοτέο ήταν αυτό που με δυσκόλεψε παραπάνω, διότι παρ' όλο που μετά την δημιουργία των προηγούμενων δύο παραδοτέον γνώριζα πια όλες τις λειτουργίες που μου ήταν απαραίτητες, δεν κατάφερα να οργανώσω σωστά όλα τα κομμάτια που έπρεπε να προσθέσω με σκοπό να βγει σωστά και ολοκληρωμένα το real-time animation. 
 
 # Sources
+
+https://assetstore.unity.com/
+https://www.mixamo.com/#/
+https://learn.unity.com/project/unit-1-getting-started?uv=2019.4&courseId=5ee00851edbc2a0022274f75
+https://learn.unity.com/project/unit-4-creating-an-animatic-a-preliminary-version-of-an-animation?uv=2019.4&courseId=5ee00851edbc2a0022274f75
